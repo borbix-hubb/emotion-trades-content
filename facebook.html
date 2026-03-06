@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Facebook Posts — Emotion Trades</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="facebook">
+<nav>
+  <a href="index.html" class="nav-brand">💹 EMOTION TRADES</a>
+  <div class="nav-links">
+    <a href="index.html">🏠 Home</a>
+    <a href="scripts.html">🎵 TikTok</a>
+    <a href="facebook.html" class="active">📘 Facebook</a>
+    <a href="calendar.html">🗓 Calendar</a>
+    <a href="news.html">📰 News</a>
+    <a href="prompts.html">🎨 Prompts</a>
+  </div>
+</nav>
+<div class="container">
+  <div class="section-header">
+    <h2>📘 Facebook Posts</h2>
+    <span class="badge">300 Posts</span>
+  </div>
+
+  <div class="filters">
+    <button class="filter-btn active" data-cat="all">📋 ทั้งหมด</button>
+    <button class="filter-btn" data-cat="SMC/ICT">🔵 SMC/ICT</button>
+    <button class="filter-btn" data-cat="XAU">🟡 XAU</button>
+    <button class="filter-btn" data-cat="MNQ">🟢 MNQ</button>
+    <button class="filter-btn" data-cat="Mindset">🟣 Mindset</button>
+    <button class="filter-btn" data-cat="Myth">🔴 Myth</button>
+    <button class="filter-btn" data-cat="Soft Sell">⚫ Soft Sell</button>
+  </div>
+
+  <div class="search-wrap">
+    <input type="search" id="search" class="search-input" placeholder="🔍 ค้นหา post...">
+  </div>
+
+  <div id="result-count" class="result-count">กำลังโหลด...</div>
+  <div id="posts-grid" class="cards-grid">
+    <div class="empty"><div class="icon">⏳</div><p>กำลังโหลด posts...</p></div>
+  </div>
+</div>
+<script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Daily News Builder — Emotion Trades</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="news">
+<nav>
+  <a href="index.html" class="nav-brand">💹 EMOTION TRADES</a>
+  <div class="nav-links">
+    <a href="index.html">🏠 Home</a>
+    <a href="scripts.html">🎵 TikTok</a>
+    <a href="facebook.html">📘 Facebook</a>
+    <a href="calendar.html">🗓 Calendar</a>
+    <a href="news.html" class="active">📰 News</a>
+    <a href="prompts.html">🎨 Prompts</a>
+  </div>
+</nav>
+<div class="container">
+  <div class="section-header">
+    <h2>📰 Daily News Builder</h2>
+    <span class="badge">Auto Generate</span>
+  </div>
+
+  <div class="news-form">
+    <div class="form-group">
+      <label class="form-label">📌 หัวข้อข่าว</label>
+      <input type="text" id="news-headline" class="form-input" placeholder="เช่น: Fed ส่งสัญญาณหยุดขึ้นดอกเบี้ย, NFP ต่ำกว่าคาด...">
+    </div>
+    <div class="form-group">
+      <label class="form-label">📝 รายละเอียดข่าว</label>
+      <textarea id="news-detail" class="form-textarea" placeholder="อธิบายรายละเอียดข่าวเพิ่มเติม..."></textarea>
+    </div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
+      <div class="form-group">
+        <label class="form-label">⚡ Impact Level</label>
+        <select id="news-impact" class="form-select">
+          <option value="High">🔴 High Impact</option>
+          <option value="Medium">🟡 Medium Impact</option>
+          <option value="Low">🟢 Low Impact</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label class="form-label">📊 Asset ที่กระทบ</label>
+        <select id="news-asset" class="form-select">
+          <option value="XAU">🥇 Gold (XAU/USD)</option>
+          <option value="MNQ">📈 Nasdaq (MNQ)</option>
+          <option value="DXY">💵 Dollar (DXY)</option>
+          <option value="ALL">🌐 ทุก Asset</option>
+        </select>
+      </div>
+    </div>
+    <button class="btn-generate" id="generate-btn">⚡ Generate TikTok Hook + Facebook Post</button>
+  </div>
+
+  <div id="output-section" class="output-section" style="display:none">
+    <h3 style="color:var(--gold);margin-bottom:16px">✅ Content ที่ Generate ได้</h3>
+
+    <div class="output-block">
+      <div class="output-label">🎵 TikTok Hook (3 วินาทีแรก)</div>
+      <div class="output-text" id="output-tiktok-hook"></div>
+      <button class="btn-copy" style="margin-top:8px;max-width:200px" onclick="copyText(document.getElementById('output-tiktok-hook').textContent,this)">📋 Copy Hook</button>
+    </div>
+
+    <div class="output-block">
+      <div class="output-label">🎵 TikTok Script เต็ม</div>
+      <div class="output-text" id="output-tiktok"></div>
+      <button class="btn-copy" style="margin-top:8px;max-width:200px" onclick="copyText(document.getElementById('output-tiktok').textContent,this)">📋 Copy Full Script</button>
+    </div>
+
+    <div class="output-block">
+      <div class="output-label">📘 Facebook Post</div>
+      <div class="output-text" id="output-fb"></div>
+      <button class="btn-copy" style="margin-top:8px;max-width:200px" onclick="copyText(document.getElementById('output-fb').textContent,this)">📋 Copy FB Post</button>
+    </div>
+  </div>
+
+  <div style="margin-top:28px;background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:20px">
+    <h3 style="color:var(--gold);margin-bottom:12px">📅 News Events สำคัญที่ต้องติดตาม</h3>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px">
+      <div style="background:var(--bg);border-left:3px solid var(--red);border-radius:8px;padding:14px">
+        <div style="color:var(--red);font-weight:700;font-size:.85rem">🔴 HIGH IMPACT</div>
+        <div style="font-size:.83rem;color:var(--muted);margin-top:8px;line-height:1.8">
+          • NFP (ศุกร์แรกของเดือน 19:30)<br>
+          • CPI (ทุกเดือน 19:30)<br>
+          • Fed Rate Decision (8 ครั้ง/ปี)<br>
+          • FOMC Meeting Minutes<br>
+          • Core PCE
+        </div>
+      </div>
+      <div style="background:var(--bg);border-left:3px solid #f0a500;border-radius:8px;padding:14px">
+        <div style="color:var(--gold);font-weight:700;font-size:.85rem">🟡 MEDIUM IMPACT</div>
+        <div style="font-size:.83rem;color:var(--muted);margin-top:8px;line-height:1.8">
+          • ADP Employment<br>
+          • ISM Manufacturing<br>
+          • Retail Sales<br>
+          • GDP Preliminary<br>
+          • PPI
+        </div>
+      </div>
+      <div style="background:var(--bg);border-left:3px solid var(--green);border-radius:8px;padding:14px">
+        <div style="color:var(--green);font-weight:700;font-size:.85rem">🟢 MONITOR</div>
+        <div style="font-size:.83rem;color:var(--muted);margin-top:8px;line-height:1.8">
+          • Fed Speeches<br>
+          • Geopolitical Events<br>
+          • Central Bank News<br>
+          • DXY Movement<br>
+          • US10Y Yields
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="js/app.js"></script>
+</body>
+</html>

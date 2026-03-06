@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Image Prompts — Emotion Trades</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="prompts">
+<nav>
+  <a href="index.html" class="nav-brand">💹 EMOTION TRADES</a>
+  <div class="nav-links">
+    <a href="index.html">🏠 Home</a>
+    <a href="scripts.html">🎵 TikTok</a>
+    <a href="facebook.html">📘 Facebook</a>
+    <a href="calendar.html">🗓 Calendar</a>
+    <a href="news.html">📰 News</a>
+    <a href="prompts.html" class="active">🎨 Prompts</a>
+  </div>
+</nav>
+<div class="container">
+  <div class="section-header">
+    <h2>🎨 Image Prompt Library</h2>
+    <span class="badge">25 Prompts</span>
+  </div>
+
+  <div style="background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin-bottom:20px">
+    <p style="color:var(--muted);font-size:.88rem">Copy prompt แล้วนำไปใช้กับ <strong style="color:var(--gold)">Midjourney</strong> หรือ <strong style="color:var(--gold)">DALL-E 3</strong> ได้เลย — สร้างรูปสำหรับ Facebook Post และ TikTok thumbnail</p>
+  </div>
+
+  <div class="search-wrap">
+    <input type="search" id="search" class="search-input" placeholder="🔍 ค้นหา prompt...">
+  </div>
+
+  <div id="prompts-grid" class="cards-grid">
+    <div class="empty"><div class="icon">⏳</div><p>กำลังโหลด...</p></div>
+  </div>
+</div>
+<script src="js/app.js"></script>
+</body>
+</html>

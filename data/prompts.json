@@ -1,0 +1,155 @@
+{
+  "categories": ["Education", "Mindset", "XAU", "MNQ", "Brand"],
+  "prompts": [
+    {
+      "id": 1,
+      "category": "Education",
+      "title": "Liquidity Hunt Chart",
+      "prompt": "Dark trading chart background with XAU/USD candlestick chart, dramatic red spike showing stop loss hunt below support level, then sharp reversal upward, annotations showing 'SL Zone' with red markers and 'Reversal' with green arrow, professional financial visualization style, dark navy blue (#1a1a2e) background, gold (#f0a500) accent lines, high contrast, cinematic lighting, 4K quality"
+    },
+    {
+      "id": 2,
+      "category": "Education",
+      "title": "Order Block Zone",
+      "prompt": "Professional trading chart showing XAU/USD with highlighted Order Block zone in amber/gold color, bullish impulse move originating from the zone, clean price action visualization, dark background (#1a1a2e), gold rectangle marking the OB area, white candlesticks, labeled annotations 'Order Block' and 'Demand Zone', Bloomberg terminal aesthetic, ultra-realistic"
+    },
+    {
+      "id": 3,
+      "category": "Education",
+      "title": "Smart Money vs Retail",
+      "prompt": "Split-screen infographic: left side shows retail trader (small fish) with emotional chart patterns, right side shows Smart Money (shark/whale) with calculated market structure moves, dark navy background, gold and white color scheme, minimal modern design, icons representing institutional trading vs retail panic, professional financial education style"
+    },
+    {
+      "id": 4,
+      "category": "Education",
+      "title": "Fair Value Gap Visualization",
+      "prompt": "Clean trading chart showing three consecutive candlesticks creating a Fair Value Gap (FVG/Imbalance), gap highlighted with semi-transparent gold rectangle, price returning to fill the gap then continuing the trend, dark theme chart, educational annotations with arrows and labels, professional TradingView-style visualization, high resolution"
+    },
+    {
+      "id": 5,
+      "category": "Education",
+      "title": "Market Structure BOS CHOCH",
+      "prompt": "Technical chart showing market structure with clear Break of Structure (BOS) and Change of Character (CHOCH) labels, Higher Highs and Higher Lows marked in green, then structure break with red CHOCH annotation, dark background, clean professional charting style, educational diagram quality, gold and red accent colors"
+    },
+    {
+      "id": 6,
+      "category": "Mindset",
+      "title": "Trading Psychology Emotional Cycle",
+      "prompt": "Circular infographic showing trader emotional cycle: Optimism → Excitement → Thrill → Euphoria → Anxiety → Denial → Fear → Panic → Capitulation → Despondency → Depression → Hope → Relief → Optimism, dark navy background, each emotion color-coded from green to red to green, modern financial psychology design, clean typography"
+    },
+    {
+      "id": 7,
+      "category": "Mindset",
+      "title": "Trading Journal Setup",
+      "prompt": "Aesthetic desk setup with trading journal open showing neat handwritten trade notes, laptop displaying charts in background, soft warm lighting, gold pen, coffee cup, professional trader workspace, dark and moody atmosphere, bokeh background, lifestyle photography style for social media, inspirational mood"
+    },
+    {
+      "id": 8,
+      "category": "Mindset",
+      "title": "Risk Management Shield",
+      "prompt": "Bold graphic design showing a shield protecting trading account, shield has '1% Risk Rule' text, surrounded by market volatility waves trying to break through, dark background with gold shield glowing, financial protection concept art, dramatic lighting, motivational poster style, professional quality"
+    },
+    {
+      "id": 9,
+      "category": "Mindset",
+      "title": "Discipline Over Emotion",
+      "prompt": "Two-panel contrast image: left panel shows chaotic trading (red losses, emotional trader, messy charts), right panel shows disciplined trading (calm trader, organized workspace, green profits), split by a clean line, dark navy background, gold text overlay 'Discipline Over Emotion', motivational financial poster"
+    },
+    {
+      "id": 10,
+      "category": "Mindset",
+      "title": "Pro Trader vs Amateur",
+      "prompt": "Side-by-side comparison infographic: Amateur Trader (FOMO, revenge trading, no journal, random entries) vs Pro Trader (rules-based, journal, patience, process-oriented), clean modern design, dark background, gold for Pro column, red for Amateur column, checkmarks and X marks, professional typography, educational social media style"
+    },
+    {
+      "id": 11,
+      "category": "XAU",
+      "title": "Gold Bull Market",
+      "prompt": "Majestic gold bar with XAU/USD price chart in background showing uptrend, dramatic golden lighting, luxury financial concept, dark navy background, price target annotations in gold, atmospheric smoke/mist effect, Bloomberg/Reuters news terminal aesthetic overlay, high-end financial photography style"
+    },
+    {
+      "id": 12,
+      "category": "XAU",
+      "title": "DXY vs Gold Correlation",
+      "prompt": "Dual-panel chart showing DXY (US Dollar Index) trending down on left while XAU/USD trends up on right, correlation arrows showing inverse relationship, clean dark background, blue color for DXY, gold color for XAU, annotation showing -0.85 correlation, professional financial analysis visual, educational diagram"
+    },
+    {
+      "id": 13,
+      "category": "XAU",
+      "title": "Gold Session Heatmap",
+      "prompt": "24-hour trading session heatmap for XAU/USD showing Tokyo, London, New York sessions with color intensity representing volatility/volume, dark navy background, gold for high-volume periods, grey for low-volume, Bangkok timezone annotations, clean professional design, financial data visualization style"
+    },
+    {
+      "id": 14,
+      "category": "XAU",
+      "title": "XAU Key Levels Chart",
+      "prompt": "Monthly XAU/USD chart with key psychological levels marked at 2000, 2100, 2200, 2300, 2400 as horizontal gold lines, price action bouncing between levels, dark chart background, clean annotations, support and resistance zones highlighted, professional TradingView aesthetic, high detail financial chart"
+    },
+    {
+      "id": 15,
+      "category": "XAU",
+      "title": "Gold Bar Physical vs Chart",
+      "prompt": "Artistic composition of physical gold bars stacked elegantly on left, with live XAU/USD trading chart visible on monitor in background, soft studio lighting, dark environment, gold reflection effects, luxury asset management aesthetic, professional financial photography, cinematic quality"
+    },
+    {
+      "id": 16,
+      "category": "MNQ",
+      "title": "Nasdaq Chart Opening Bell",
+      "prompt": "Dynamic MNQ/NQ Futures chart at 09:30 ET NYSE opening bell moment, price showing volatile opening range with sharp directional move, dark trading terminal background, green and red candlesticks, volume bars at bottom, VWAP line in blue, clean professional futures trading chart aesthetic"
+    },
+    {
+      "id": 17,
+      "category": "MNQ",
+      "title": "VWAP Trading Setup",
+      "prompt": "Clean intraday MNQ chart with VWAP line prominently displayed in blue, price bouncing off VWAP as support then moving up, entry point marked with gold arrow, stop loss and take profit lines visible, dark background, professional day trading chart, educational annotations, high resolution"
+    },
+    {
+      "id": 18,
+      "category": "MNQ",
+      "title": "Futures Contract Specifications",
+      "prompt": "Clean infographic showing MNQ vs NQ contract specifications comparison: contract size, tick value, margin requirements, trading hours, side-by-side table design, dark navy background, gold headers, white text, modern financial data presentation, professional typography, educational style"
+    },
+    {
+      "id": 19,
+      "category": "MNQ",
+      "title": "NYSE Trading Floor Energy",
+      "prompt": "Dramatic aerial view of NYSE trading floor during market open, traders at screens, price boards showing Nasdaq numbers, dynamic atmosphere, financial district energy, cinematic photography style, warm dramatic lighting, real trading environment capturing the intensity of futures markets"
+    },
+    {
+      "id": 20,
+      "category": "MNQ",
+      "title": "Opening Range Breakout Setup",
+      "prompt": "Clear 5-minute MNQ chart showing Opening Range (first 15 minutes) boxed with dotted gold lines, then breakout candle above the range with strong volume, entry arrow pointing up, annotations 'Opening Range' and 'Breakout Entry', dark chart background, educational trading setup visualization, clean and professional"
+    },
+    {
+      "id": 21,
+      "category": "Brand",
+      "title": "Emotion Trades Logo Concept",
+      "prompt": "Modern financial brand logo for 'EMOTION TRADES', stylized ET monogram with subtle candlestick chart element integrated, dark navy (#1a1a2e) background, gold (#f0a500) primary color, white secondary, clean minimal design, professional trading brand identity, vector-style clean edges, suitable for social media profile picture"
+    },
+    {
+      "id": 22,
+      "category": "Brand",
+      "title": "TikTok Thumbnail Template",
+      "prompt": "Bold TikTok thumbnail template for financial education content, dark navy background (#1a1a2e), large gold text area for hook/title, candlestick chart graphic element in corner, 'EMOTION TRADES' branding at bottom, professional yet engaging design, mobile-optimized vertical format, high contrast for small screen visibility"
+    },
+    {
+      "id": 23,
+      "category": "Brand",
+      "title": "Facebook Post Template",
+      "prompt": "Square Facebook post template for trading education brand 'Emotion Trades', dark navy background with gold accent strip on left side, clean content area with chart placeholder, gold 'EMOTION TRADES' text at top, professional financial education brand aesthetic, 1080x1080 pixel format, minimal and modern design"
+    },
+    {
+      "id": 24,
+      "category": "Brand",
+      "title": "Hero Banner Trading Setup",
+      "prompt": "Wide-format hero banner showing professional trading setup: multiple monitors displaying forex charts and futures data, dark ambient lighting in background, gold 'EMOTION TRADES' text overlay, cinematic depth of field, aspirational trader lifestyle, ultra-wide 16:9 format, premium financial brand photography"
+    },
+    {
+      "id": 25,
+      "category": "Brand",
+      "title": "Quote Card Template",
+      "prompt": "Elegant quote card template for Emotion Trades, dark navy background with subtle gold border, centered typography area for trading wisdom quote, small candlestick icon accent, 'EMOTION TRADES' signature at bottom in gold, clean minimal design suitable for Instagram and Facebook sharing, professional and trustworthy aesthetic"
+    }
+  ]
+}

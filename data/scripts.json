@@ -1,0 +1,2412 @@
+{
+  "categories": [
+    "SMC/ICT",
+    "XAU",
+    "MNQ",
+    "Mindset",
+    "Myth",
+    "Soft Sell"
+  ],
+  "scripts": [
+    {
+      "id": 1,
+      "category": "SMC/ICT",
+      "title": "Liquidity คืออะไร",
+      "hook": "Big player กำลังล่า Stop Loss ของคุณอยู่ตอนนี้ และคุณยังไม่รู้เลย",
+      "content": "Liquidity คือกลุ่ม Stop Loss ที่นักเทรดรายย่อยตั้งไว้ Big player อย่าง Bank และ Institution พวกเขารู้ว่า SL ส่วนใหญ่อยู่ที่ไหน เพราะทุกคนเทรดจาก level เดียวกัน พวกเขาจะดัน/ดึงราคาไป sweep SL เหล่านั้นก่อน แล้วค่อย reverse ทิศทางที่แท้จริง นั่นคือ Liquidity Hunt",
+      "cta": "ติดตาม Emotion Trades ไว้ครับ เดี๋ยวสอนวิธีหนีกับดักนี้"
+    },
+    {
+      "id": 2,
+      "category": "SMC/ICT",
+      "title": "Order Block คืออะไร",
+      "hook": "ทำไมราคาถึงกลับทุกครั้งที่แตะโซนนี้? มันไม่ใช่เรื่องบังเอิญ",
+      "content": "Order Block คือแท่งเทียนสุดท้ายก่อนที่ราคาจะพุ่งแรงหรือดิ่งแรง มันคือร่องรอยที่ Big player เข้าเปิด Order ขนาดใหญ่ เมื่อราคากลับมาที่โซนนี้อีกครั้ง Big player จะเข้าเพิ่มหรือ Defend position ของพวกเขา นั่นคือเหตุผลที่ราคากลับเกือบทุกครั้ง",
+      "cta": "Save ไว้เลย แล้วลอง spot Order Block บน chart ของคุณดู"
+    },
+    {
+      "id": 3,
+      "category": "SMC/ICT",
+      "title": "BOS vs CHOCH ต่างกันยังไง",
+      "hook": "คุณรู้จัก BOS ไหม? ถ้าไม่รู้ คุณกำลังเทรดสวนเทรนด์อยู่โดยไม่รู้ตัว",
+      "content": "BOS คือ Break of Structure หมายความว่าเทรนด์ยังคงอยู่ ราคาแค่กำลังเดินหน้าต่อ แต่ CHOCH คือ Change of Character สัญญาณว่าเทรนด์กำลังจะเปลี่ยน BOS = ตามเทรนด์ต่อได้ CHOCH = เตรียมรับทิศใหม่ ถ้าแยกสองอย่างนี้ได้ การอ่าน Price Action ของคุณจะเปลี่ยนไปเลย",
+      "cta": "Comment บอกว่าเคยเข้าสวนเทรนด์บ้างไหม? 😅"
+    },
+    {
+      "id": 4,
+      "category": "SMC/ICT",
+      "title": "FVG คือกับดักหรือโอกาส",
+      "hook": "Fair Value Gap — ช่องว่างบน chart ที่คนส่วนใหญ่มองข้าม แต่ Smart Money ไม่มองข้าม",
+      "content": "FVG หรือ Imbalance คือช่องว่างระหว่างแท่งเทียน 3 แท่ง เกิดขึ้นเมื่อราคาเคลื่อนที่เร็วเกินไปจนตลาดไม่ balance ตลาดมักจะ 'ถอยกลับมาเติม' ช่องว่างนี้ก่อนเดินหน้าต่อ Smart Money ใช้โซนนี้ในการ BUY หรือ SELL อย่างแม่นยำ",
+      "cta": "อยากเรียน SMC เพิ่ม? ติดตามไว้ก่อนเลย"
+    },
+    {
+      "id": 5,
+      "category": "SMC/ICT",
+      "title": "Premium vs Discount Zone",
+      "hook": "คุณกำลังซื้อแพงและขายถูกอยู่ไหม? 90% ของนักเทรดรายย่อยเป็นแบบนี้",
+      "content": "Premium Zone คือช่วงราคาที่แพงกว่าค่ากลาง (สูงกว่า 50% ของ swing) Discount Zone คือช่วงราคาที่ถูกกว่าค่ากลาง กฎง่ายๆ ของ Smart Money: ซื้อใน Discount ขายใน Premium รายย่อยมักทำตรงข้าม — ซื้อตอนราคาสูง ตกใจขายตอนราคาต่ำ",
+      "cta": "เซฟไว้เลย กฎนี้ง่ายมากแต่เปลี่ยนเกมได้"
+    },
+    {
+      "id": 6,
+      "category": "XAU",
+      "title": "ทำไม XAU/USD ถึงวิ่งแรงตอน News",
+      "hook": "ทองวิ่ง 200 pip ใน 5 นาที คุณรู้ล่วงหน้าได้ไหมว่าจะวิ่งไปทางไหน?",
+      "content": "XAU/USD ไวต่อ 3 ปัจจัยหลัก: 1) DXY (Dollar Index) — ทองกับดอลล่าร์วิ่งสวนทาง ดอลล่าร์แข็ง ทองอ่อน 2) CPI/NFP Data — ข้อมูลเงินเฟ้อสูง ทองพุ่ง 3) Geopolitical Risk — สงคราม/วิกฤต ทองเป็น Safe Haven รู้ 3 อย่างนี้ก็มีขอบได้แล้ว",
+      "cta": "กด Follow เพื่อรับ analysis ทองทุกวัน"
+    },
+    {
+      "id": 7,
+      "category": "XAU",
+      "title": "XAU Session ไหนดีที่สุด",
+      "hook": "เทรดทองผิด Session = ขาดทุน เทรดถูก Session = โอกาสเพิ่มขึ้น 3 เท่า",
+      "content": "XAU/USD มี 3 Session หลัก: London Open (14:00-16:00 น. ไทย) — Liquidity สูง, มักเกิด Manipulation Asian Session (00:00-07:00 น. ไทย) — Accumulation, ราคานิ่ง NY Open (19:30-22:00 น. ไทย) — Trend แท้จริง, News หลักออก Session ที่ดีที่สุดคือ London และ NY สำหรับ XAU",
+      "cta": "Comment 'XAU' ถ้าอยากเรียนเทคนิคเทรดทองเพิ่ม"
+    },
+    {
+      "id": 8,
+      "category": "XAU",
+      "title": "DXY กับทอง สัมพันธ์กันยังไง",
+      "hook": "ดูแค่ chart ทองอย่างเดียว = เทรดแบบตาบอดข้างนึง",
+      "content": "DXY คือ US Dollar Index วัดค่าดอลล่าร์เทียบสกุลเงินหลัก 6 สกุล ความสัมพันธ์กับทอง: DXY ขึ้น → XAU มักลง DXY ลง → XAU มักขึ้น Correlation ปกติอยู่ที่ -0.8 ถึง -0.9 เปิด DXY ดูคู่กันทุกครั้งก่อนเข้า position ทอง จะช่วยยืนยัน trade direction ได้ดีมาก",
+      "cta": "เซฟ chart setup นี้ไว้ใช้ได้เลย"
+    },
+    {
+      "id": 9,
+      "category": "XAU",
+      "title": "ทองกับ Inflation สัมพันธ์กันจริงไหม",
+      "hook": "คนบอกว่าทองคือ hedge เงินเฟ้อ แต่ทำไมปี 2022 เงินเฟ้อสูงสุดในรอบ 40 ปี ทองกลับลง?",
+      "content": "ความจริงคือ ทองไม่ได้ขึ้นตาม Inflation เสมอไป ทองขึ้นตาม Real Interest Rate (อัตราดอกเบี้ย - เงินเฟ้อ) ถ้า Fed ขึ้นดอกเบี้ยแรงกว่า Inflation → Real Rate บวก → ทองลง ปี 2022 Fed ขึ้นดอกเบี้ยเร็วมาก ทองจึงลง แม้เงินเฟ้อสูง นี่คือ nuance ที่คนส่วนใหญ่ไม่รู้",
+      "cta": "อยากเข้าใจ Macro เพิ่ม? ติดตามไว้ได้เลย"
+    },
+    {
+      "id": 10,
+      "category": "XAU",
+      "title": "Support Resistance ทองที่ต้องรู้",
+      "hook": "มี Level ทองที่นักเทรดทั่วโลกจับตาอยู่ — คุณรู้จักมันไหม?",
+      "content": "Level สำคัญของ XAU ที่ต้อง mark ไว้: Psychological Level: 2000, 2100, 2200, 2300, 2400 Previous High/Low รายสัปดาห์ และรายเดือน Daily Open Price — แนว Support/Resistance ที่แม่นมาก 50% ของ Weekly Candle — Premium/Discount Zone Level พวกนี้กลับมา Test บ่อยมาก อย่าลบออกจาก chart",
+      "cta": "Mark level เหล่านี้แล้ว trade ต่างกันเลยครับ"
+    },
+    {
+      "id": 11,
+      "category": "MNQ",
+      "title": "MNQ คืออะไร เทรดยังไง",
+      "hook": "Nasdaq ตัวเล็กที่ทำกำไรได้เหมือนตัวใหญ่ — MNQ คือคำตอบ",
+      "content": "MNQ คือ Micro Nasdaq Futures ขนาด 1/10 ของ NQ ราคา 1 point = $2 (NQ = $20) เหมาะสำหรับนักเทรดที่อยากเรียนรู้ Futures โดยไม่ใช้ทุนเยอะ MNQ เปิด 23 ชั่วโมงต่อวัน Active ที่สุดช่วง NY Session ข้อดี: Spread แคบ, Liquidity สูง, ค่าคอมน้อย",
+      "cta": "Comment 'MNQ' ถ้าอยากเรียน Futures เพิ่ม"
+    },
+    {
+      "id": 12,
+      "category": "MNQ",
+      "title": "RTH vs ETH ใน Futures คืออะไร",
+      "hook": "เทรด Futures ไม่รู้จัก RTH กับ ETH = โดนกับดักแน่นอน",
+      "content": "RTH = Regular Trading Hours (09:30-16:00 ET) ช่วงที่ตลาด Stock ปกติเปิด Volume สูง, Movement ชัดเจน ETH = Extended Trading Hours คือนอกเวลา RTH Pre-market และ After-hours Volume ต่ำกว่า, Spread กว้างกว่า, Manipulation สูงกว่า High/Low ของ RTH เป็น Level สำคัญมากสำหรับวันถัดไป",
+      "cta": "Mark RTH High/Low ไว้ในแผนเทรดด้วยนะครับ"
+    },
+    {
+      "id": 13,
+      "category": "MNQ",
+      "title": "VWAP ใน MNQ ใช้ยังไง",
+      "hook": "Institution ทุกเจ้าดู VWAP ถ้าคุณไม่ดู คุณกำลังเทรดสู้พวกเขาโดยไม่มีอาวุธ",
+      "content": "VWAP = Volume Weighted Average Price คือราคาเฉลี่ยที่ถ่วงน้ำหนักด้วย Volume Institution ใช้ VWAP เป็น benchmark ในการ execute order ราคาเหนือ VWAP = Bullish bias ราคาใต้ VWAP = Bearish bias VWAP เป็น Dynamic Support/Resistance ที่ดีมากใน Intraday",
+      "cta": "เพิ่ม VWAP ใน chart แล้วสังเกตดูครับ"
+    },
+    {
+      "id": 14,
+      "category": "MNQ",
+      "title": "Opening Range Breakout MNQ",
+      "hook": "9:30 ET — 15 นาทีแรกของตลาดอาจเป็น Trade ที่ดีที่สุดของวัน",
+      "content": "Opening Range Breakout (ORB) คือ Strategy ที่ใช้ High/Low ของแท่งแรกหลัง Market Open เป็น entry trigger รอให้ราคา Break ขึ้นเหนือ High → Long Break ต่ำกว่า Low → Short เพิ่ม confluence ด้วย: Volume spike, VWAP direction, Pre-market trend Win rate สูงในวันที่ตลาดมี Trending move",
+      "cta": "Backtest Strategy นี้ใน TradingView ดูก่อนนะครับ"
+    },
+    {
+      "id": 15,
+      "category": "MNQ",
+      "title": "ทำไม MNQ วิ่งแรงช่วง NFP",
+      "hook": "NFP ออก MNQ วิ่ง 100+ points ใน 1 นาที คุณ Prepare ยังไง?",
+      "content": "NFP (Non-Farm Payroll) ออกทุกวันศุกร์แรกของเดือน 19:30 น. ไทย ตัวเลขดีกว่าคาด → MNQ พุ่ง ตัวเลขแย่กว่าคาด → MNQ ดิ่ง แต่ระวัง! บางครั้ง 'Buy the rumor, Sell the news' ราคาวิ่งสวนทาง แนะนำ: รอ 2-3 นาทีหลัง NFP ออกก่อน ดู Direction ชัดแล้วค่อยเข้า",
+      "cta": "Mark ปฏิทิน NFP ไว้ทุกเดือนนะครับ"
+    },
+    {
+      "id": 16,
+      "category": "Mindset",
+      "title": "ทำไมนักเทรดส่วนใหญ่ถึงขาดทุน",
+      "hook": "90% ของนักเทรดขาดทุน แต่ไม่ใช่เพราะ Strategy แย่ — เพราะอะไร?",
+      "content": "ปัญหาที่แท้จริงของนักเทรดส่วนใหญ่ไม่ใช่ความรู้ แต่คือ Psychology: Over-trading — เทรดทุกวันทั้งที่ไม่มี Setup Revenge Trading — ขาดทุนแล้วรีบเข้าใหม่ทันที FOMO — กลัวพลาดเข้าตอนราคาวิ่งไปแล้ว Moving SL — ย้าย Stop Loss ตอนราคาเข้าใกล้ Size too big — เปิด lot ใหญ่เกินทุน ทุกอย่างแก้ได้ด้วย Process และ Rule",
+      "cta": "เคยเป็นแบบไหนบ้าง? Comment ได้เลย"
+    },
+    {
+      "id": 17,
+      "category": "Mindset",
+      "title": "Trading Journal ทำไมต้องทำ",
+      "hook": "นักเทรดที่กำไรสม่ำเสมอทุกคนมีสิ่งนี้เหมือนกัน — Trading Journal",
+      "content": "Trading Journal ไม่ใช่แค่จดว่า Buy/Sell ที่ราคาเท่าไหร่ แต่ต้องจด: Setup ที่ใช้, Emotion ตอน entry, เหตุผลที่ exit, สิ่งที่เรียนรู้ พอดูย้อนหลัง 100 trade คุณจะเห็น Pattern ของตัวเอง ว่า Setup ไหนที่ Win Rate สูง, เวลาไหนที่คุณ Overtrade, อารมณ์ไหนที่ทำให้ขาดทุน",
+      "cta": "เริ่มจด Journal trade ถัดไปได้เลยครับ"
+    },
+    {
+      "id": 18,
+      "category": "Mindset",
+      "title": "Risk Management ที่แท้จริง",
+      "hook": "คุณอาจเทรดถูก 40% แต่ยังกำไรสม่ำเสมอได้ — ถ้าทำสิ่งนี้",
+      "content": "Risk Management คือหัวใจของการเทรดระยะยาว กฎพื้นฐาน: Risk ไม่เกิน 1-2% ต่อ Trade RRR (Risk:Reward) ขั้นต่ำ 1:2 ถ้า Win Rate 40% และ RRR 1:2 คณิตศาสตร์ยังบอกว่ากำไร Max Loss ต่อวัน: ถ้าขาดทุน 3 trade หยุดเทรดวันนั้น Drawdown เกิน 10% ของบัญชี — พักก่อน",
+      "cta": "Rule พวกนี้ไม่มีในหนังสือส่วนใหญ่ เซฟไว้เลย"
+    },
+    {
+      "id": 19,
+      "category": "Mindset",
+      "title": "ความแตกต่างของ Pro กับ Amateur",
+      "hook": "Pro Trader และ Amateur ดู chart เดียวกัน แต่ตัดสินใจต่างกันสิ้นเชิง — ทำไม?",
+      "content": "Amateur: เน้น กำไรครั้งนี้ เข้าทุก Setup ที่เห็น, เน้น Prediction, โกรธเมื่อขาดทุน Pro: เน้น Process ระยะยาว เลือกเฉพาะ A+ Setup, ยอมรับความไม่แน่นอน, ขาดทุนคือ Cost of Business Pro ไม่ได้เก่งกว่าในการทำนาย แต่เก่งกว่าในการ Execute และ Manage Risk",
+      "cta": "อยากเป็น Pro ต้องเริ่มจาก Mindset ก่อนครับ"
+    },
+    {
+      "id": 20,
+      "category": "Mindset",
+      "title": "Patience คืออาวุธลับของนักเทรด",
+      "hook": "Trade ที่ดีที่สุดในชีวิตคุณ อาจต้องรอ 3 ชั่วโมงกว่าจะ Setup",
+      "content": "Patience ใน Trading มี 2 แบบ: 1) Patience รอ Setup — รอจนกว่า confluence ครบ ไม่บังคับเข้า 2) Patience ถือ Trade — ให้ราคาวิ่งถึง Target โดยไม่ Exit เร็ว นักเทรดส่วนใหญ่ขาดทั้งสองอย่าง เข้าเร็วเกินไปและ Exit เร็วเกินไป ฝึก Patience ได้โดยการ Backtest และ Paper Trade",
+      "cta": "วันนี้ลอง 'รอ' ดูสักวัน อาจ miss trade แต่ก็ miss ขาดทุนด้วย"
+    },
+    {
+      "id": 21,
+      "category": "Myth",
+      "title": "เทรดตาม Signal ทำเงินได้จริงไหม",
+      "hook": "Signal Group บอกว่า Win Rate 90% แต่ทำไมคนซื้อ Signal ยังขาดทุนอยู่?",
+      "content": "ความจริงของ Signal Trading: 1) คุณไม่รู้ Risk Management ของคนให้ Signal 2) Entry Price ที่คุณได้อาจต่างจาก Signal ต้นฉบับ 3) คุณไม่เข้าใจ Logic = ไม่รู้จะ Exit ตอนไหน 4) ถ้า Signal หยุดให้ คุณเทรดเองไม่ได้ Signal อาจ Profitable แต่คุณจะไม่มีวัน Consistent ถ้าไม่เข้าใจว่า 'ทำไม'",
+      "cta": "เรียนรู้ทำเอง ดีกว่าพึ่งคนอื่นตลอดไป"
+    },
+    {
+      "id": 22,
+      "category": "Myth",
+      "title": "Indicator บอกอนาคตได้จริงไหม",
+      "hook": "RSI, MACD, Bollinger Bands — ทุกคนใช้ แต่ทำไมยังขาดทุนกันอยู่?",
+      "content": "Indicator ทุกตัวล้วน Lagging — คำนวณจากราคาที่ผ่านมาแล้ว ไม่มี Indicator ไหนบอกอนาคตได้ 100% Indicator คือ tool ช่วย Confirm ไม่ใช่ Predict การใช้ Indicator หลายตัวพร้อมกันก็ไม่ได้ดีขึ้น เพราะ Input เดียวกัน ที่ดีที่สุดคือ Price Action + Volume + 1-2 Indicator ที่เข้าใจจริงๆ",
+      "cta": "Simplify chart ของคุณวันนี้เลยครับ"
+    },
+    {
+      "id": 23,
+      "category": "Myth",
+      "title": "ยิ่งเทรดเยอะยิ่งได้เงินเยอะ จริงไหม",
+      "hook": "นักเทรดมือใหม่เทรด 20 ครั้งต่อวัน นักเทรด Pro เทรด 2-3 ครั้งต่อสัปดาห์",
+      "content": "Over-trading คือนักฆ่าตัวร้ายที่สุดในโลกเทรด ยิ่งเทรดเยอะ: ค่าคอมสะสมมากขึ้น, Emotional Decision เพิ่ม, Setup คุณภาพต่ำลง, ความเหนื่อยล้าเพิ่ม นักเทรดที่ดีรอ A+ Setup เท่านั้น อาจเทรดแค่ 2-3 ครั้งต่อสัปดาห์ แต่ Win Rate และ RRR สูง ผลลัพธ์ดีกว่าคนที่เทรดทุกวัน",
+      "cta": "ลองนับว่าเดือนนี้เทรดกี่ครั้ง และกำไรเท่าไหร่"
+    },
+    {
+      "id": 24,
+      "category": "Myth",
+      "title": "ต้องดู Chart ตลอดเวลาจึงจะกำไร",
+      "hook": "คุณจ้องหน้าจอ 8 ชั่วโมงต่อวันแต่ยังขาดทุน มีปัญหาอะไร?",
+      "content": "การดู Chart ตลอดเวลาทำให้: Overtrade, Emotional Decision เพิ่ม, ชีวิตส่วนตัวพัง นักเทรดที่ดีใช้ระบบที่: Set Alert เมื่อราคาถึง Level กำหนด SL/TP ไว้แล้ว ไม่ต้องเฝ้า ใช้ Higher Timeframe เพื่อลด Noise การเทรดที่ดีสามารถใช้เวลาแค่ 1-2 ชั่วโมงต่อวันได้",
+      "cta": "ลองตั้ง Alert แทนการจ้อง Chart ดูนะครับ"
+    },
+    {
+      "id": 25,
+      "category": "Myth",
+      "title": "ทุนน้อยเทรดไม่ได้ จริงหรือเปล่า",
+      "hook": "เริ่มเทรดด้วย $500 ได้ไหม? คำตอบจะทำให้คุณแปลกใจ",
+      "content": "ทุนน้อยเทรดได้ แต่ต้องเลือก Instrument ให้เหมาะ: $500 → Forex Micro Lot, MNQ (Micro Futures) $1,000-5,000 → Forex Mini Lot, Options $10,000+ → Futures เต็มๆ ปัญหาของทุนน้อยคือ: Psychological pressure สูง, Recovery ช้าถ้าขาดทุน แนะนำ: Paper Trade ก่อนจนกว่าจะ Consistent แล้วค่อยเริ่มจริง",
+      "cta": "ทุนไม่ใช่ข้อจำกัด ความรู้ต่างหากที่สำคัญกว่า"
+    },
+    {
+      "id": 26,
+      "category": "Soft Sell",
+      "title": "เส้นทางการเทรดของฉัน",
+      "hook": "ฉันขาดทุนมากกว่า 6 หลักก่อนที่จะกำไรสม่ำเสมอ — นี่คือสิ่งที่เรียนรู้",
+      "content": "เส้นทางการเทรดไม่ได้ราบรื่น ผ่านมาทุกอย่าง: Blow Account, เทรดตาม Signal แพ้, ซื้อ Course แพงแต่ไม่ Work สิ่งที่เปลี่ยนทุกอย่างคือ: เรียน Price Action ให้เข้าใจจริงๆ, ทำ Journal ทุก Trade, Fix Risk Management อย่างเข้มงวด ทุกวันนี้ Emotion Trades เกิดขึ้นเพื่อให้คนอื่นเดินทางสั้นกว่าฉัน",
+      "cta": "ถ้า Story นี้ Resonate กับคุณ กด Follow เลยครับ"
+    },
+    {
+      "id": 27,
+      "category": "Soft Sell",
+      "title": "Emotion Trades สอนอะไรบ้าง",
+      "hook": "ถ้าคุณอยากเรียนเทรดแต่ไม่รู้จะเริ่มจากไหน — ฉันมีคำตอบ",
+      "content": "Emotion Trades ครอบคลุม: SMC/ICT — Smart Money Concept สำหรับ Retail Trader XAU Analysis — วิเคราะห์ทองทุกวัน MNQ Futures — เทรด Nasdaq Micro Mindset & Psychology — จิตวิทยาการเทรด Risk Management — ป้องกันทุนระยะยาว ทุก Content ออกแบบมาให้เข้าใจง่าย ไม่จำเป็นต้องมีพื้นฐานมาก่อน",
+      "cta": "กด Follow วันนี้ แล้วเรียนรู้ไปพร้อมกันครับ"
+    },
+    {
+      "id": 28,
+      "category": "Soft Sell",
+      "title": "ทำไมต้อง Follow Emotion Trades",
+      "hook": "มี Trading Account หลายพันช่อง ทำไมต้องดูช่องนี้?",
+      "content": "Emotion Trades ต่างจากที่อื่นตรงที่: ไม่ขาย Dream — บอกความจริงของการเทรด ไม่ Promote Broker ที่จ่าย Commission Content คือ Education ไม่ใช่ Entertainment อธิบายทั้ง 'ว่าทำอะไร' และ 'ทำไม' Update ตาม Market จริงๆ ทุกวัน เป้าหมายคือทำให้คุณ Trade Independently ได้",
+      "cta": "ลอง Follow 30 วัน ถ้าไม่ได้ประโยชน์ Unfollow ได้เลย"
+    },
+    {
+      "id": 29,
+      "category": "Soft Sell",
+      "title": "Community นักเทรดที่แท้จริง",
+      "hook": "เทรดคนเดียว vs เทรดกับ Community ผลต่างกันมากแค่ไหน?",
+      "content": "การเทรดคนเดียวทำให้: Bias ในการมองตลาด, ขาด Accountability, เหนื่อยและหมดกำลังใจเร็ว Community ที่ดีให้: มุมมองที่หลากหลาย, ระบบ Accountability, แรงจูงใจในวันที่ Market ยาก Emotion Trades กำลังสร้าง Community ของคนที่จริงจังกับการเทรด ไม่ใช่แค่คนที่อยาก 'รวยเร็ว'",
+      "cta": "Join Community ของเราได้เลยครับ"
+    },
+    {
+      "id": 30,
+      "category": "Soft Sell",
+      "title": "Free Resources ที่ Emotion Trades มี",
+      "hook": "ไม่ต้องใช้เงินสักบาท เพื่อเริ่มเรียนเทรดกับ Emotion Trades",
+      "content": "Free Resources ที่เรามีตอนนี้: TikTok — Concept สั้นๆ ทุกวัน Facebook — Analysis เชิงลึก Chart Breakdown — อธิบาย Setup ราย Trade News Impact — ข่าวที่กระทบ XAU และ MNQ ทุกอย่าง Free ไม่มีค่าใช้จ่าย เพราะเชื่อว่าความรู้ควรเข้าถึงได้ทุกคน",
+      "cta": "เริ่มได้เลยวันนี้ กด Follow แล้วมาเรียนรู้ไปด้วยกัน"
+    },
+    {
+      "id": 31,
+      "category": "SMC/ICT",
+      "title": "Institutional Order Flow",
+      "hook": "รู้จัก Institutional ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "Institutional Order Flow คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 32,
+      "category": "SMC/ICT",
+      "title": "Order Flow Imbalance",
+      "hook": "รู้จัก Order ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "Order Flow Imbalance คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 33,
+      "category": "SMC/ICT",
+      "title": "Stop Hunt Pattern",
+      "hook": "รู้จัก Stop ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "Stop Hunt Pattern คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 34,
+      "category": "SMC/ICT",
+      "title": "Liquidity Pool คืออะไร",
+      "hook": "รู้จัก Liquidity ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "Liquidity Pool คืออะไร คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 35,
+      "category": "SMC/ICT",
+      "title": "Run on Stops",
+      "hook": "รู้จัก Run ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "Run on Stops คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 36,
+      "category": "SMC/ICT",
+      "title": "Equal Highs/Lows",
+      "hook": "รู้จัก Equal ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "Equal Highs/Lows คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 37,
+      "category": "SMC/ICT",
+      "title": "Sell Side Liquidity",
+      "hook": "รู้จัก Sell ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "Sell Side Liquidity คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 38,
+      "category": "SMC/ICT",
+      "title": "Buy Side Liquidity",
+      "hook": "รู้จัก Buy ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "Buy Side Liquidity คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 39,
+      "category": "SMC/ICT",
+      "title": "London Open Manipulation",
+      "hook": "รู้จัก London ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "London Open Manipulation คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 40,
+      "category": "SMC/ICT",
+      "title": "NY Session Reversal",
+      "hook": "รู้จัก NY ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "NY Session Reversal คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 41,
+      "category": "SMC/ICT",
+      "title": "IPDA (Interbank Price Delivery Algorithm)",
+      "hook": "รู้จัก IPDA ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "IPDA (Interbank Price Delivery Algorithm) คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 42,
+      "category": "SMC/ICT",
+      "title": "Time and Price Theory ICT",
+      "hook": "รู้จัก Time ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "Time and Price Theory ICT คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 43,
+      "category": "SMC/ICT",
+      "title": "AMD Model",
+      "hook": "รู้จัก AMD ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "AMD Model คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 44,
+      "category": "SMC/ICT",
+      "title": "HTF vs LTF Confluence",
+      "hook": "รู้จัก HTF ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "HTF vs LTF Confluence คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 45,
+      "category": "SMC/ICT",
+      "title": "How to Mark POI",
+      "hook": "รู้จัก How ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "How to Mark POI คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 46,
+      "category": "SMC/ICT",
+      "title": "Entry Model 1-2-3",
+      "hook": "รู้จัก Entry ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "Entry Model 1-2-3 คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 47,
+      "category": "SMC/ICT",
+      "title": "Risk Definition in SMC",
+      "hook": "รู้จัก Risk ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "Risk Definition in SMC คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 48,
+      "category": "SMC/ICT",
+      "title": "Confirmation Entry vs Aggressive Entry",
+      "hook": "รู้จัก Confirmation ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "Confirmation Entry vs Aggressive Entry คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 49,
+      "category": "SMC/ICT",
+      "title": "SMC on Gold Complete Walkthrough",
+      "hook": "รู้จัก SMC ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "SMC on Gold Complete Walkthrough คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 50,
+      "category": "SMC/ICT",
+      "title": "SMC Recap Week Strategy",
+      "hook": "รู้จัก SMC ไหม? ถ้าไม่รู้ คุณกำลังเสียเปรียบอยู่",
+      "content": "SMC Recap Week Strategy คือหนึ่งใน concept สำคัญของ SMC/ICT ที่ช่วยให้อ่านตลาดได้แม่นยำขึ้น การเรียนรู้ concept นี้จะช่วยให้คุณเข้าใจว่า Smart Money กำลังทำอะไรในตลาด และใช้ข้อมูลนั้นในการหา entry ที่มีโอกาสสูงกว่า",
+      "cta": "ติดตาม Emotion Trades รับ SMC content ทุกวัน"
+    },
+    {
+      "id": 51,
+      "category": "XAU",
+      "title": "Gold Seasonality ทองมีช่วงขึ้นลงประจำปีไหม",
+      "hook": "ทองขึ้นเดือนไหนบ้าง? มีรูปแบบที่คาดเดาได้ไหม?",
+      "content": "Gold มี Seasonal Pattern ที่น่าสนใจ: Q1 (ม.ค.-มี.ค.) มักแข็งแกร่ง, Q2 อ่อนตัว, Q3 ผสม, Q4 มักแข็งแกร่งก่อนปลายปี Central Bank มักซื้อทองช่วง Q1 และ Q4 นี่คือ Seasonality ที่ควรรู้ก่อนวางแผน trade ระยะยาว",
+      "cta": "Save ไว้ดูทุกต้นไตรมาสนะครับ"
+    },
+    {
+      "id": 52,
+      "category": "XAU",
+      "title": "Central Bank กับทอง ทำไม Bank ซื้อทองเยอะมาก",
+      "hook": "ทำไม China Russia และอีกหลายประเทศกำลังซื้อทองสำรองเพิ่มขึ้น?",
+      "content": "Central Bank ทั่วโลกซื้อทองสูงสุดในรอบ 55 ปีในปี 2022-2023 เหตุผล: ลด dependency ต่อ USD, Diversify reserve, ป้องกัน Sanction ความต้องการจาก Central Bank นี้สร้าง floor ให้ทองระยะยาว การรู้ flow ของ Bank ช่วยให้เทรด macro ได้ดีขึ้น",
+      "cta": "อยากเข้าใจ Macro เพิ่ม ติดตาม Emotion Trades"
+    },
+    {
+      "id": 53,
+      "category": "XAU",
+      "title": "NFP กับทอง เทรดยังไงให้ได้ประโยชน์",
+      "hook": "NFP ออกทุกศุกร์แรกของเดือน — นี่คือ strategy ที่ใช้ได้จริง",
+      "content": "NFP (Non-Farm Payroll) คือข้อมูลการจ้างงานสหรัฐ ผล: NFP สูงกว่าคาด = Dollar แข็ง = Gold ลง, NFP ต่ำกว่าคาด = Dollar อ่อน = Gold ขึ้น Strategy: อย่าเปิด trade 30 นาทีก่อนข่าว รอ spike แล้วหา reversal setup ใน 15-30 นาทีหลังข่าว",
+      "cta": "กด Follow รับ recap NFP ทุกเดือน"
+    },
+    {
+      "id": 54,
+      "category": "XAU",
+      "title": "CPI กับทอง ความสัมพันธ์ที่ต้องรู้",
+      "hook": "เงินเฟ้อสูง ทองขึ้น? ไม่เสมอไป — นี่คือความจริง",
+      "content": "CPI หรือ Consumer Price Index วัดเงินเฟ้อ ความสัมพันธ์กับทองซับซ้อนกว่าที่คิด: CPI สูง + Fed ขึ้นดอกเบี้ยตาม = Real Rate บวก = ทองลง CPI สูง + Fed ไม่ขึ้นดอกเบี้ย = Real Rate ลบ = ทองขึ้น กุญแจคือ Real Interest Rate ไม่ใช่แค่ Inflation",
+      "cta": "คำนวณ Real Rate = ดอกเบี้ย Fed - CPI inflation"
+    },
+    {
+      "id": 55,
+      "category": "XAU",
+      "title": "Fed Rate Decision ส่งผลต่อทองยังไง",
+      "hook": "เมื่อ Fed พูด ทั้งโลกฟัง และทองก็ฟังด้วย",
+      "content": "Fed Rate Decision เกิดขึ้น 8 ครั้งต่อปี Hawkish (ขึ้นดอกเบี้ย/ส่งสัญญาณแข็งกร้าว) = ทองมักลง Dovish (ลดดอกเบี้ย/ส่งสัญญาณผ่อนปรน) = ทองมักขึ้น Dot Plot และ FOMC Statement สำคัญมาก Press Conference หลัง decision มักมี volatility สูงสุด",
+      "cta": "Mark วันประชุม Fed ไว้ในปฏิทินเทรดด้วย"
+    },
+    {
+      "id": 56,
+      "category": "XAU",
+      "title": "XAU Technical Levels ที่สำคัญ",
+      "hook": "XAU — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "XAU Technical Levels ที่สำคัญ เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 57,
+      "category": "XAU",
+      "title": "Gold ETF Flow Analysis",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold ETF Flow Analysis เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 58,
+      "category": "XAU",
+      "title": "Physical vs Paper Gold",
+      "hook": "Physical — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Physical vs Paper Gold เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 59,
+      "category": "XAU",
+      "title": "Gold Mining Stocks Correlation",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Mining Stocks Correlation เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 60,
+      "category": "XAU",
+      "title": "XAU vs Bitcoin เปรียบเทียบ",
+      "hook": "XAU — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "XAU vs Bitcoin เปรียบเทียบ เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 61,
+      "category": "XAU",
+      "title": "Gold as Currency Hedge",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold as Currency Hedge เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 62,
+      "category": "XAU",
+      "title": "Geopolitical Risk and Gold",
+      "hook": "Geopolitical — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Geopolitical Risk and Gold เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 63,
+      "category": "XAU",
+      "title": "Treasury Yields Impact",
+      "hook": "Treasury — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Treasury Yields Impact เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 64,
+      "category": "XAU",
+      "title": "XAUEUR vs XAUUSD",
+      "hook": "XAUEUR — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "XAUEUR vs XAUUSD เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 65,
+      "category": "XAU",
+      "title": "Gold Options Market",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Options Market เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 66,
+      "category": "XAU",
+      "title": "COT Report กับทอง",
+      "hook": "COT — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "COT Report กับทอง เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 67,
+      "category": "XAU",
+      "title": "Fibonacci on XAU",
+      "hook": "Fibonacci — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Fibonacci on XAU เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 68,
+      "category": "XAU",
+      "title": "Elliott Wave on Gold",
+      "hook": "Elliott — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Elliott Wave on Gold เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 69,
+      "category": "XAU",
+      "title": "Wyckoff Method on Gold",
+      "hook": "Wyckoff — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Wyckoff Method on Gold เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 70,
+      "category": "XAU",
+      "title": "Volume Profile XAU",
+      "hook": "Volume — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Volume Profile XAU เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 71,
+      "category": "XAU",
+      "title": "VWAP on Gold",
+      "hook": "VWAP — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "VWAP on Gold เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 72,
+      "category": "XAU",
+      "title": "ATR ใช้ยังไงกับ XAU",
+      "hook": "ATR — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "ATR ใช้ยังไงกับ XAU เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 73,
+      "category": "XAU",
+      "title": "Bollinger Band ใช้ได้ไหม",
+      "hook": "Bollinger — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Bollinger Band ใช้ได้ไหม เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 74,
+      "category": "XAU",
+      "title": "RSI Divergence on Gold",
+      "hook": "RSI — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "RSI Divergence on Gold เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 75,
+      "category": "XAU",
+      "title": "MACD Gold Setup",
+      "hook": "MACD — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "MACD Gold Setup เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 76,
+      "category": "XAU",
+      "title": "Moving Average Gold",
+      "hook": "Moving — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Moving Average Gold เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 77,
+      "category": "XAU",
+      "title": "Ichimoku Gold",
+      "hook": "Ichimoku — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Ichimoku Gold เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 78,
+      "category": "XAU",
+      "title": "Pivot Points Gold",
+      "hook": "Pivot — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Pivot Points Gold เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 79,
+      "category": "XAU",
+      "title": "Gold Scalping 5M Setup",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Scalping 5M Setup เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 80,
+      "category": "XAU",
+      "title": "Gold Swing Trade Setup",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Swing Trade Setup เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 81,
+      "category": "XAU",
+      "title": "Gold Position Trade",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Position Trade เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 82,
+      "category": "XAU",
+      "title": "Gold Day Trading Rules",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Day Trading Rules เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 83,
+      "category": "XAU",
+      "title": "Managing Gold Trade",
+      "hook": "Managing — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Managing Gold Trade เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 84,
+      "category": "XAU",
+      "title": "Partial TP Gold Strategy",
+      "hook": "Partial — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Partial TP Gold Strategy เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 85,
+      "category": "XAU",
+      "title": "Trailing Stop Gold",
+      "hook": "Trailing — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Trailing Stop Gold เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 86,
+      "category": "XAU",
+      "title": "Gold Pre-Market Analysis",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Pre-Market Analysis เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 87,
+      "category": "XAU",
+      "title": "Gold Post-Market Review",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Post-Market Review เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 88,
+      "category": "XAU",
+      "title": "Weekly Gold Recap",
+      "hook": "Weekly — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Weekly Gold Recap เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 89,
+      "category": "XAU",
+      "title": "Monthly Gold Outlook",
+      "hook": "Monthly — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Monthly Gold Outlook เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 90,
+      "category": "XAU",
+      "title": "Gold Year in Review",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Year in Review เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 91,
+      "category": "XAU",
+      "title": "Common Gold Mistakes",
+      "hook": "Common — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Common Gold Mistakes เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 92,
+      "category": "XAU",
+      "title": "Gold Risk Management",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Risk Management เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 93,
+      "category": "XAU",
+      "title": "Gold Position Sizing",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Position Sizing เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 94,
+      "category": "XAU",
+      "title": "Gold Psychology",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Psychology เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 95,
+      "category": "XAU",
+      "title": "Gold Success Stories",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Success Stories เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 96,
+      "category": "XAU",
+      "title": "XAU Broker Selection",
+      "hook": "XAU — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "XAU Broker Selection เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 97,
+      "category": "XAU",
+      "title": "Gold Demo Trading",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Demo Trading เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 98,
+      "category": "XAU",
+      "title": "Gold Live Trading Start",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Live Trading Start เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 99,
+      "category": "XAU",
+      "title": "XAU Chart Setup TradingView",
+      "hook": "XAU — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "XAU Chart Setup TradingView เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 100,
+      "category": "XAU",
+      "title": "Gold Alert Strategy",
+      "hook": "Gold — สิ่งที่นักเทรดทองต้องรู้",
+      "content": "Gold Alert Strategy เป็น concept สำคัญสำหรับการเทรด XAU/USD ให้มีประสิทธิภาพ การเข้าใจเรื่องนี้จะช่วยให้คุณมีข้อมูลมากขึ้นในการตัดสินใจ entry และ exit ที่ดีขึ้น",
+      "cta": "ติดตาม Emotion Trades สำหรับ XAU content ทุกวัน"
+    },
+    {
+      "id": 101,
+      "category": "MNQ",
+      "title": "MNQ vs NQ ต่างกันยังไง",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ vs NQ ต่างกันยังไง เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 102,
+      "category": "MNQ",
+      "title": "Margin Requirements MNQ",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ Margin",
+      "content": "Margin Requirements MNQ เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 103,
+      "category": "MNQ",
+      "title": "CME Exchange คืออะไร",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ CME",
+      "content": "CME Exchange คืออะไร เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 104,
+      "category": "MNQ",
+      "title": "Futures Contract Specs",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ Futures",
+      "content": "Futures Contract Specs เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 105,
+      "category": "MNQ",
+      "title": "Rolling Futures คืออะไร",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ Rolling",
+      "content": "Rolling Futures คืออะไร เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 106,
+      "category": "MNQ",
+      "title": "MNQ Gap Strategy",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Gap Strategy เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 107,
+      "category": "MNQ",
+      "title": "Opening Range Breakout MNQ",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ Opening",
+      "content": "Opening Range Breakout MNQ เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 108,
+      "category": "MNQ",
+      "title": "MNQ Pre-Market",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Pre-Market เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 109,
+      "category": "MNQ",
+      "title": "MNQ Session Time",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Session Time เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 110,
+      "category": "MNQ",
+      "title": "Correlation ES MNQ",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ Correlation",
+      "content": "Correlation ES MNQ เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 111,
+      "category": "MNQ",
+      "title": "Tech Sector Impact MNQ",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ Tech",
+      "content": "Tech Sector Impact MNQ เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 112,
+      "category": "MNQ",
+      "title": "FAANG Stocks and NQ",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ FAANG",
+      "content": "FAANG Stocks and NQ เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 113,
+      "category": "MNQ",
+      "title": "Earnings Season MNQ",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ Earnings",
+      "content": "Earnings Season MNQ เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 114,
+      "category": "MNQ",
+      "title": "VIX and MNQ",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ VIX",
+      "content": "VIX and MNQ เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 115,
+      "category": "MNQ",
+      "title": "MNQ Scalp Setup London",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Scalp Setup London เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 116,
+      "category": "MNQ",
+      "title": "MNQ Scalp Setup NY",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Scalp Setup NY เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 117,
+      "category": "MNQ",
+      "title": "MNQ Swing Setup",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Swing Setup เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 118,
+      "category": "MNQ",
+      "title": "MNQ SMC Application",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ SMC Application เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 119,
+      "category": "MNQ",
+      "title": "MNQ Liquidity Zones",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Liquidity Zones เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 120,
+      "category": "MNQ",
+      "title": "MNQ Order Book",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Order Book เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 121,
+      "category": "MNQ",
+      "title": "MNQ DOM Trading",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ DOM Trading เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 122,
+      "category": "MNQ",
+      "title": "MNQ Footprint Chart",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Footprint Chart เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 123,
+      "category": "MNQ",
+      "title": "MNQ Volume Analysis",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Volume Analysis เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 124,
+      "category": "MNQ",
+      "title": "MNQ VWAP Strategy",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ VWAP Strategy เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 125,
+      "category": "MNQ",
+      "title": "MNQ Fibonacci Levels",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Fibonacci Levels เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 126,
+      "category": "MNQ",
+      "title": "MNQ Support Resistance",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Support Resistance เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 127,
+      "category": "MNQ",
+      "title": "MNQ Trend Following",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Trend Following เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 128,
+      "category": "MNQ",
+      "title": "MNQ Counter Trend",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Counter Trend เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 129,
+      "category": "MNQ",
+      "title": "MNQ Breakout Trade",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Breakout Trade เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 130,
+      "category": "MNQ",
+      "title": "MNQ News Trading",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ News Trading เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 131,
+      "category": "MNQ",
+      "title": "MNQ Risk Per Trade",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Risk Per Trade เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 132,
+      "category": "MNQ",
+      "title": "MNQ Daily Loss Limit",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Daily Loss Limit เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 133,
+      "category": "MNQ",
+      "title": "MNQ Win Rate Target",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Win Rate Target เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 134,
+      "category": "MNQ",
+      "title": "MNQ Journal Setup",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Journal Setup เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 135,
+      "category": "MNQ",
+      "title": "MNQ Backtest Method",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Backtest Method เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 136,
+      "category": "MNQ",
+      "title": "MNQ Prop Firm",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Prop Firm เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 137,
+      "category": "MNQ",
+      "title": "Topstep MNQ",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ Topstep",
+      "content": "Topstep MNQ เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 138,
+      "category": "MNQ",
+      "title": "Apex Trader MNQ",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ Apex",
+      "content": "Apex Trader MNQ เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 139,
+      "category": "MNQ",
+      "title": "Earn2Trade MNQ",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ Earn2Trade",
+      "content": "Earn2Trade MNQ เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 140,
+      "category": "MNQ",
+      "title": "MyFundedFutures",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MyFundedFutures",
+      "content": "MyFundedFutures เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 141,
+      "category": "MNQ",
+      "title": "MNQ Paper Trading",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Paper Trading เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 142,
+      "category": "MNQ",
+      "title": "MNQ First Live Trade",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ First Live Trade เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 143,
+      "category": "MNQ",
+      "title": "MNQ Common Mistakes",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Common Mistakes เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 144,
+      "category": "MNQ",
+      "title": "MNQ Psychology",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Psychology เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 145,
+      "category": "MNQ",
+      "title": "MNQ Community",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Community เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 146,
+      "category": "MNQ",
+      "title": "MNQ Weekly Recap",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Weekly Recap เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 147,
+      "category": "MNQ",
+      "title": "MNQ Monthly Review",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Monthly Review เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 148,
+      "category": "MNQ",
+      "title": "MNQ vs Forex",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ vs Forex เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 149,
+      "category": "MNQ",
+      "title": "MNQ Tax Thailand",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Tax Thailand เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 150,
+      "category": "MNQ",
+      "title": "MNQ Getting Started",
+      "hook": "สิ่งที่นักเทรด MNQ มือใหม่ต้องรู้เกี่ยวกับ MNQ",
+      "content": "MNQ Getting Started เป็นหัวข้อสำคัญสำหรับการเทรด MNQ Futures ให้ประสบความสำเร็จ การเข้าใจเรื่องนี้จะช่วยลดความเสี่ยงและเพิ่มโอกาสในการทำกำไรอย่างสม่ำเสมอ",
+      "cta": "ติดตาม Emotion Trades สำหรับ MNQ content"
+    },
+    {
+      "id": 151,
+      "category": "Mindset",
+      "title": "Acceptance ในการเทรด",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Acceptance — คุณรู้ไหม?",
+      "content": "Acceptance ในการเทรด คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 152,
+      "category": "Mindset",
+      "title": "Process Based Thinking",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Process — คุณรู้ไหม?",
+      "content": "Process Based Thinking คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 153,
+      "category": "Mindset",
+      "title": "Expected Value คืออะไร",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Expected — คุณรู้ไหม?",
+      "content": "Expected Value คืออะไร คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 154,
+      "category": "Mindset",
+      "title": "Variance ในการเทรด",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Variance — คุณรู้ไหม?",
+      "content": "Variance ในการเทรด คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 155,
+      "category": "Mindset",
+      "title": "Sample Size กับ Edge",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Sample — คุณรู้ไหม?",
+      "content": "Sample Size กับ Edge คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 156,
+      "category": "Mindset",
+      "title": "Confidence vs Overconfidence",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Confidence — คุณรู้ไหม?",
+      "content": "Confidence vs Overconfidence คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 157,
+      "category": "Mindset",
+      "title": "Patience เป็นทักษะ",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Patience — คุณรู้ไหม?",
+      "content": "Patience เป็นทักษะ คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 158,
+      "category": "Mindset",
+      "title": "Discipline คือกุญแจ",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Discipline — คุณรู้ไหม?",
+      "content": "Discipline คือกุญแจ คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 159,
+      "category": "Mindset",
+      "title": "Self-Awareness Trader",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Self-Awareness — คุณรู้ไหม?",
+      "content": "Self-Awareness Trader คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 160,
+      "category": "Mindset",
+      "title": "Emotional Regulation",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Emotional — คุณรู้ไหม?",
+      "content": "Emotional Regulation คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 161,
+      "category": "Mindset",
+      "title": "Stress Management",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Stress — คุณรู้ไหม?",
+      "content": "Stress Management คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 162,
+      "category": "Mindset",
+      "title": "Work-Life Balance Trader",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Work-Life — คุณรู้ไหม?",
+      "content": "Work-Life Balance Trader คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 163,
+      "category": "Mindset",
+      "title": "Sleep and Trading Performance",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Sleep — คุณรู้ไหม?",
+      "content": "Sleep and Trading Performance คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 164,
+      "category": "Mindset",
+      "title": "Exercise and Focus",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Exercise — คุณรู้ไหม?",
+      "content": "Exercise and Focus คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 165,
+      "category": "Mindset",
+      "title": "Nutrition and Decision Making",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Nutrition — คุณรู้ไหม?",
+      "content": "Nutrition and Decision Making คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 166,
+      "category": "Mindset",
+      "title": "Meditation for Traders",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Meditation — คุณรู้ไหม?",
+      "content": "Meditation for Traders คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 167,
+      "category": "Mindset",
+      "title": "Morning Routine Trader",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Morning — คุณรู้ไหม?",
+      "content": "Morning Routine Trader คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 168,
+      "category": "Mindset",
+      "title": "Evening Review Routine",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Evening — คุณรู้ไหม?",
+      "content": "Evening Review Routine คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 169,
+      "category": "Mindset",
+      "title": "Weekend Preparation",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Weekend — คุณรู้ไหม?",
+      "content": "Weekend Preparation คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 170,
+      "category": "Mindset",
+      "title": "Month End Review",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Month — คุณรู้ไหม?",
+      "content": "Month End Review คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 171,
+      "category": "Mindset",
+      "title": "Setting Realistic Goals",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Setting — คุณรู้ไหม?",
+      "content": "Setting Realistic Goals คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 172,
+      "category": "Mindset",
+      "title": "Tracking Progress",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Tracking — คุณรู้ไหม?",
+      "content": "Tracking Progress คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 173,
+      "category": "Mindset",
+      "title": "Celebrating Small Wins",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Celebrating — คุณรู้ไหม?",
+      "content": "Celebrating Small Wins คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 174,
+      "category": "Mindset",
+      "title": "Learning from Losses",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Learning — คุณรู้ไหม?",
+      "content": "Learning from Losses คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 175,
+      "category": "Mindset",
+      "title": "Finding Your Edge",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Finding — คุณรู้ไหม?",
+      "content": "Finding Your Edge คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 176,
+      "category": "Mindset",
+      "title": "Defining Your Style",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Defining — คุณรู้ไหม?",
+      "content": "Defining Your Style คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 177,
+      "category": "Mindset",
+      "title": "Building Consistency",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Building — คุณรู้ไหม?",
+      "content": "Building Consistency คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 178,
+      "category": "Mindset",
+      "title": "Long-term Thinking",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Long-term — คุณรู้ไหม?",
+      "content": "Long-term Thinking คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 179,
+      "category": "Mindset",
+      "title": "Career as Trader",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Career — คุณรู้ไหม?",
+      "content": "Career as Trader คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 180,
+      "category": "Mindset",
+      "title": "Trading as Business",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Trading — คุณรู้ไหม?",
+      "content": "Trading as Business คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 181,
+      "category": "Mindset",
+      "title": "Net Worth Building",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Net — คุณรู้ไหม?",
+      "content": "Net Worth Building คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 182,
+      "category": "Mindset",
+      "title": "Income Diversification",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Income — คุณรู้ไหม?",
+      "content": "Income Diversification คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 183,
+      "category": "Mindset",
+      "title": "Emergency Fund Trader",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Emergency — คุณรู้ไหม?",
+      "content": "Emergency Fund Trader คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 184,
+      "category": "Mindset",
+      "title": "Risk of Ruin คืออะไร",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Risk — คุณรู้ไหม?",
+      "content": "Risk of Ruin คืออะไร คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 185,
+      "category": "Mindset",
+      "title": "Kelly Criterion",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Kelly — คุณรู้ไหม?",
+      "content": "Kelly Criterion คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 186,
+      "category": "Mindset",
+      "title": "Optimal f",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Optimal — คุณรู้ไหม?",
+      "content": "Optimal f คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 187,
+      "category": "Mindset",
+      "title": "Fixed Ratio",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Fixed — คุณรู้ไหม?",
+      "content": "Fixed Ratio คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 188,
+      "category": "Mindset",
+      "title": "Fixed Fractional",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Fixed — คุณรู้ไหม?",
+      "content": "Fixed Fractional คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 189,
+      "category": "Mindset",
+      "title": "Anti-Martingale",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Anti-Martingale — คุณรู้ไหม?",
+      "content": "Anti-Martingale คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 190,
+      "category": "Mindset",
+      "title": "When to Scale Up",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง When — คุณรู้ไหม?",
+      "content": "When to Scale Up คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 191,
+      "category": "Mindset",
+      "title": "When to Stop Trading",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง When — คุณรู้ไหม?",
+      "content": "When to Stop Trading คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 192,
+      "category": "Mindset",
+      "title": "Taking Breaks",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Taking — คุณรู้ไหม?",
+      "content": "Taking Breaks คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 193,
+      "category": "Mindset",
+      "title": "Vacation and Trading",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Vacation — คุณรู้ไหม?",
+      "content": "Vacation and Trading คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 194,
+      "category": "Mindset",
+      "title": "Family Support Trading",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Family — คุณรู้ไหม?",
+      "content": "Family Support Trading คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 195,
+      "category": "Mindset",
+      "title": "Finding Mentors",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Finding — คุณรู้ไหม?",
+      "content": "Finding Mentors คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 196,
+      "category": "Mindset",
+      "title": "Trading Community Value",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Trading — คุณรู้ไหม?",
+      "content": "Trading Community Value คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 197,
+      "category": "Mindset",
+      "title": "Books for Traders",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Books — คุณรู้ไหม?",
+      "content": "Books for Traders คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 198,
+      "category": "Mindset",
+      "title": "Podcasts Trading",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Podcasts — คุณรู้ไหม?",
+      "content": "Podcasts Trading คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 199,
+      "category": "Mindset",
+      "title": "Trading Videos Learn",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Trading — คุณรู้ไหม?",
+      "content": "Trading Videos Learn คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 200,
+      "category": "Mindset",
+      "title": "Paper Trading Value",
+      "hook": "นักเทรดที่ประสบความสำเร็จทุกคนรู้เรื่อง Paper — คุณรู้ไหม?",
+      "content": "Paper Trading Value คือส่วนหนึ่งของ trading psychology ที่มักถูกมองข้าม แต่กลับมีผลต่อผลลัพธ์การเทรดอย่างมาก การพัฒนาด้านนี้จะช่วยให้คุณรักษา consistency ได้ดีขึ้นในระยะยาว",
+      "cta": "กด Follow เรียน Trading Psychology กับ Emotion Trades"
+    },
+    {
+      "id": 201,
+      "category": "Myth",
+      "title": "Myth: เทรดวันละ 100 pip ได้ทุกวัน",
+      "hook": "คนส่วนใหญ่เชื่อว่า เทรดวันละ 100 pip ได้ทุกวัน — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ เทรดวันละ 100 pip ได้ทุกวัน ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 202,
+      "category": "Myth",
+      "title": "Myth: System ดีไม่มีแพ้",
+      "hook": "คนส่วนใหญ่เชื่อว่า System ดีไม่มีแพ้ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ System ดีไม่มีแพ้ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 203,
+      "category": "Myth",
+      "title": "Myth: Forex ง่าย",
+      "hook": "คนส่วนใหญ่เชื่อว่า Forex ง่าย — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Forex ง่าย ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 204,
+      "category": "Myth",
+      "title": "Myth: ดู YouTube แล้วเทรดได้เลย",
+      "hook": "คนส่วนใหญ่เชื่อว่า ดู YouTube แล้วเทรดได้เลย — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ ดู YouTube แล้วเทรดได้เลย ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 205,
+      "category": "Myth",
+      "title": "Myth: ลงทุนน้อยรวยเร็ว",
+      "hook": "คนส่วนใหญ่เชื่อว่า ลงทุนน้อยรวยเร็ว — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ ลงทุนน้อยรวยเร็ว ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 206,
+      "category": "Myth",
+      "title": "Myth: Bot เทรดแทนได้",
+      "hook": "คนส่วนใหญ่เชื่อว่า Bot เทรดแทนได้ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Bot เทรดแทนได้ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 207,
+      "category": "Myth",
+      "title": "Myth: EA ทำกำไรได้ไม่หยุด",
+      "hook": "คนส่วนใหญ่เชื่อว่า EA ทำกำไรได้ไม่หยุด — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ EA ทำกำไรได้ไม่หยุด ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 208,
+      "category": "Myth",
+      "title": "Myth: Signal ดีทำกำไรได้",
+      "hook": "คนส่วนใหญ่เชื่อว่า Signal ดีทำกำไรได้ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Signal ดีทำกำไรได้ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 209,
+      "category": "Myth",
+      "title": "Myth: เทรดระยะสั้นเสี่ยงกว่า",
+      "hook": "คนส่วนใหญ่เชื่อว่า เทรดระยะสั้นเสี่ยงกว่า — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ เทรดระยะสั้นเสี่ยงกว่า ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 210,
+      "category": "Myth",
+      "title": "Myth: Leverage สูงยิ่งดี",
+      "hook": "คนส่วนใหญ่เชื่อว่า Leverage สูงยิ่งดี — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Leverage สูงยิ่งดี ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 211,
+      "category": "Myth",
+      "title": "Myth: ต้องมีทุน 100k ขึ้นไป",
+      "hook": "คนส่วนใหญ่เชื่อว่า ต้องมีทุน 100k ขึ้นไป — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ ต้องมีทุน 100k ขึ้นไป ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 212,
+      "category": "Myth",
+      "title": "Myth: เทรดช่วงข่าวห้ามทำ",
+      "hook": "คนส่วนใหญ่เชื่อว่า เทรดช่วงข่าวห้ามทำ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ เทรดช่วงข่าวห้ามทำ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 213,
+      "category": "Myth",
+      "title": "Myth: Pattern มักแม่น 100%",
+      "hook": "คนส่วนใหญ่เชื่อว่า Pattern มักแม่น 100% — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Pattern มักแม่น 100% ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 214,
+      "category": "Myth",
+      "title": "Myth: ใช้ Support Resistance ง่ายๆ",
+      "hook": "คนส่วนใหญ่เชื่อว่า ใช้ Support Resistance ง่ายๆ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ ใช้ Support Resistance ง่ายๆ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 215,
+      "category": "Myth",
+      "title": "Myth: ทองวิ่งตาม indicator",
+      "hook": "คนส่วนใหญ่เชื่อว่า ทองวิ่งตาม indicator — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ ทองวิ่งตาม indicator ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 216,
+      "category": "Myth",
+      "title": "Myth: Scalping ไม่ได้กำไรระยะยาว",
+      "hook": "คนส่วนใหญ่เชื่อว่า Scalping ไม่ได้กำไรระยะยาว — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Scalping ไม่ได้กำไรระยะยาว ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 217,
+      "category": "Myth",
+      "title": "Myth: ต้องเทรดทุกวัน",
+      "hook": "คนส่วนใหญ่เชื่อว่า ต้องเทรดทุกวัน — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ ต้องเทรดทุกวัน ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 218,
+      "category": "Myth",
+      "title": "Myth: Win rate ต้องสูงกว่า 70%",
+      "hook": "คนส่วนใหญ่เชื่อว่า Win rate ต้องสูงกว่า 70% — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Win rate ต้องสูงกว่า 70% ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 219,
+      "category": "Myth",
+      "title": "Myth: เทรด 1 pair ดีที่สุด",
+      "hook": "คนส่วนใหญ่เชื่อว่า เทรด 1 pair ดีที่สุด — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ เทรด 1 pair ดีที่สุด ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 220,
+      "category": "Myth",
+      "title": "Myth: เพิ่ม lot เพื่อเอาคืน",
+      "hook": "คนส่วนใหญ่เชื่อว่า เพิ่ม lot เพื่อเอาคืน — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ เพิ่ม lot เพื่อเอาคืน ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 221,
+      "category": "Myth",
+      "title": "Myth: ตลาดมี Pattern ชัดเจนเสมอ",
+      "hook": "คนส่วนใหญ่เชื่อว่า ตลาดมี Pattern ชัดเจนเสมอ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ ตลาดมี Pattern ชัดเจนเสมอ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 222,
+      "category": "Myth",
+      "title": "Myth: Demo Trading ไม่มีประโยชน์",
+      "hook": "คนส่วนใหญ่เชื่อว่า Demo Trading ไม่มีประโยชน์ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Demo Trading ไม่มีประโยชน์ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 223,
+      "category": "Myth",
+      "title": "Myth: นักเทรดโปรไม่แพ้",
+      "hook": "คนส่วนใหญ่เชื่อว่า นักเทรดโปรไม่แพ้ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ นักเทรดโปรไม่แพ้ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 224,
+      "category": "Myth",
+      "title": "Myth: Market Maker คือศัตรู",
+      "hook": "คนส่วนใหญ่เชื่อว่า Market Maker คือศัตรู — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Market Maker คือศัตรู ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 225,
+      "category": "Myth",
+      "title": "Myth: เทรดพร้อมงานประจำไม่ได้",
+      "hook": "คนส่วนใหญ่เชื่อว่า เทรดพร้อมงานประจำไม่ได้ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ เทรดพร้อมงานประจำไม่ได้ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 226,
+      "category": "Myth",
+      "title": "Myth: ต้องเรียนหลาย Course",
+      "hook": "คนส่วนใหญ่เชื่อว่า ต้องเรียนหลาย Course — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ ต้องเรียนหลาย Course ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 227,
+      "category": "Myth",
+      "title": "Myth: ใหม่ทำกำไรได้เลย",
+      "hook": "คนส่วนใหญ่เชื่อว่า ใหม่ทำกำไรได้เลย — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ ใหม่ทำกำไรได้เลย ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 228,
+      "category": "Myth",
+      "title": "Myth: Stop Loss ไม่จำเป็น",
+      "hook": "คนส่วนใหญ่เชื่อว่า Stop Loss ไม่จำเป็น — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Stop Loss ไม่จำเป็น ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 229,
+      "category": "Myth",
+      "title": "Myth: Average Down ดีเสมอ",
+      "hook": "คนส่วนใหญ่เชื่อว่า Average Down ดีเสมอ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Average Down ดีเสมอ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 230,
+      "category": "Myth",
+      "title": "Myth: Cut Loss แล้วแพ้",
+      "hook": "คนส่วนใหญ่เชื่อว่า Cut Loss แล้วแพ้ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Cut Loss แล้วแพ้ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 231,
+      "category": "Myth",
+      "title": "Myth: ทองขึ้นเสมอในระยะยาว",
+      "hook": "คนส่วนใหญ่เชื่อว่า ทองขึ้นเสมอในระยะยาว — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ ทองขึ้นเสมอในระยะยาว ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 232,
+      "category": "Myth",
+      "title": "Myth: Dollar กับทองวิ่งสวนทางเสมอ",
+      "hook": "คนส่วนใหญ่เชื่อว่า Dollar กับทองวิ่งสวนทางเสมอ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Dollar กับทองวิ่งสวนทางเสมอ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 233,
+      "category": "Myth",
+      "title": "Myth: VIX สูง = เทรดยาก",
+      "hook": "คนส่วนใหญ่เชื่อว่า VIX สูง = เทรดยาก — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ VIX สูง = เทรดยาก ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 234,
+      "category": "Myth",
+      "title": "Myth: Trend following ง่าย",
+      "hook": "คนส่วนใหญ่เชื่อว่า Trend following ง่าย — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Trend following ง่าย ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 235,
+      "category": "Myth",
+      "title": "Myth: Counter trend trading ยาก",
+      "hook": "คนส่วนใหญ่เชื่อว่า Counter trend trading ยาก — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Counter trend trading ยาก ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 236,
+      "category": "Myth",
+      "title": "Myth: ต้องเทรดทุก setup",
+      "hook": "คนส่วนใหญ่เชื่อว่า ต้องเทรดทุก setup — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ ต้องเทรดทุก setup ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 237,
+      "category": "Myth",
+      "title": "Myth: กราฟแบบไหนก็เหมือนกัน",
+      "hook": "คนส่วนใหญ่เชื่อว่า กราฟแบบไหนก็เหมือนกัน — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ กราฟแบบไหนก็เหมือนกัน ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 238,
+      "category": "Myth",
+      "title": "Myth: Broker ทุกเจ้าเหมือนกัน",
+      "hook": "คนส่วนใหญ่เชื่อว่า Broker ทุกเจ้าเหมือนกัน — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Broker ทุกเจ้าเหมือนกัน ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 239,
+      "category": "Myth",
+      "title": "Myth: เทรด Crypto ดีกว่า Forex",
+      "hook": "คนส่วนใหญ่เชื่อว่า เทรด Crypto ดีกว่า Forex — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ เทรด Crypto ดีกว่า Forex ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 240,
+      "category": "Myth",
+      "title": "Myth: AI เทรดแทนคนได้",
+      "hook": "คนส่วนใหญ่เชื่อว่า AI เทรดแทนคนได้ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ AI เทรดแทนคนได้ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 241,
+      "category": "Myth",
+      "title": "Myth: Follow กูรูแล้วรวย",
+      "hook": "คนส่วนใหญ่เชื่อว่า Follow กูรูแล้วรวย — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Follow กูรูแล้วรวย ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 242,
+      "category": "Myth",
+      "title": "Myth: ซื้อของแพง = ดีกว่า",
+      "hook": "คนส่วนใหญ่เชื่อว่า ซื้อของแพง = ดีกว่า — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ ซื้อของแพง = ดีกว่า ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 243,
+      "category": "Myth",
+      "title": "Myth: ต้องมีคอมพิวเตอร์แรง",
+      "hook": "คนส่วนใหญ่เชื่อว่า ต้องมีคอมพิวเตอร์แรง — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ ต้องมีคอมพิวเตอร์แรง ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 244,
+      "category": "Myth",
+      "title": "Myth: เทรดมือถือไม่ได้",
+      "hook": "คนส่วนใหญ่เชื่อว่า เทรดมือถือไม่ได้ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ เทรดมือถือไม่ได้ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 245,
+      "category": "Myth",
+      "title": "Myth: Broker ขายทำกำไรจากคุณ",
+      "hook": "คนส่วนใหญ่เชื่อว่า Broker ขายทำกำไรจากคุณ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Broker ขายทำกำไรจากคุณ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 246,
+      "category": "Myth",
+      "title": "Myth: Spread ไม่สำคัญ",
+      "hook": "คนส่วนใหญ่เชื่อว่า Spread ไม่สำคัญ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Spread ไม่สำคัญ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 247,
+      "category": "Myth",
+      "title": "Myth: Commission ไม่กระทบกำไร",
+      "hook": "คนส่วนใหญ่เชื่อว่า Commission ไม่กระทบกำไร — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Commission ไม่กระทบกำไร ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 248,
+      "category": "Myth",
+      "title": "Myth: Backtest ไม่มีประโยชน์",
+      "hook": "คนส่วนใหญ่เชื่อว่า Backtest ไม่มีประโยชน์ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Backtest ไม่มีประโยชน์ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 249,
+      "category": "Myth",
+      "title": "Myth: Forward test เท่านั้นที่สำคัญ",
+      "hook": "คนส่วนใหญ่เชื่อว่า Forward test เท่านั้นที่สำคัญ — แต่ความจริงคือ...",
+      "content": "นี่คือความเชื่อผิดๆ ที่หลายคนยังยึดถืออยู่เกี่ยวกับ Forward test เท่านั้นที่สำคัญ ความเข้าใจที่ถูกต้องจะช่วยให้คุณหลีกเลี่ยงกับดักที่ทำให้นักเทรดส่วนใหญ่ขาดทุน",
+      "cta": "ติดตาม Emotion Trades เพื่อทลายความเชื่อผิดๆ ทุกวัน"
+    },
+    {
+      "id": 251,
+      "category": "Soft Sell",
+      "title": "ทำไมต้องเลือก Emotion Trades",
+      "hook": "ทำไมต้องเลือก Emotion Trades — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง ทำไมต้องเลือก Emotion Trades เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 252,
+      "category": "Soft Sell",
+      "title": "Community ของเราต่างกันอย่างไร",
+      "hook": "Community ของเราต่างกันอย่างไร — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Community ของเราต่างกันอย่างไร เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 253,
+      "category": "Soft Sell",
+      "title": "Free vs Paid ได้อะไรต่างกัน",
+      "hook": "Free vs Paid ได้อะไรต่างกัน — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Free vs Paid ได้อะไรต่างกัน เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 254,
+      "category": "Soft Sell",
+      "title": "Join Discord Emotion Trades",
+      "hook": "Join Discord Emotion Trades — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Join Discord Emotion Trades เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 255,
+      "category": "Soft Sell",
+      "title": "Discord VIP มีอะไรบ้าง",
+      "hook": "Discord VIP มีอะไรบ้าง — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Discord VIP มีอะไรบ้าง เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 256,
+      "category": "Soft Sell",
+      "title": "คอร์สสอนอะไรบ้าง",
+      "hook": "คอร์สสอนอะไรบ้าง — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง คอร์สสอนอะไรบ้าง เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 257,
+      "category": "Soft Sell",
+      "title": "1on1 เหมาะกับใคร",
+      "hook": "1on1 เหมาะกับใคร — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง 1on1 เหมาะกับใคร เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 258,
+      "category": "Soft Sell",
+      "title": "IB Exness ผ่าน Emotion Trades",
+      "hook": "IB Exness ผ่าน Emotion Trades — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง IB Exness ผ่าน Emotion Trades เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 259,
+      "category": "Soft Sell",
+      "title": "IB HFM ผ่าน Emotion Trades",
+      "hook": "IB HFM ผ่าน Emotion Trades — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง IB HFM ผ่าน Emotion Trades เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 260,
+      "category": "Soft Sell",
+      "title": "ทำไมต้องเปิดผ่าน IB link",
+      "hook": "ทำไมต้องเปิดผ่าน IB link — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง ทำไมต้องเปิดผ่าน IB link เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 261,
+      "category": "Soft Sell",
+      "title": "Results จาก Community",
+      "hook": "Results จาก Community — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Results จาก Community เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 262,
+      "category": "Soft Sell",
+      "title": "Member พูดถึงเราว่ายังไง",
+      "hook": "Member พูดถึงเราว่ายังไง — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Member พูดถึงเราว่ายังไง เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 263,
+      "category": "Soft Sell",
+      "title": "3 เดือนกับ Emotion Trades",
+      "hook": "3 เดือนกับ Emotion Trades — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง 3 เดือนกับ Emotion Trades เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 264,
+      "category": "Soft Sell",
+      "title": "ก่อน vs หลังเรียน SMC",
+      "hook": "ก่อน vs หลังเรียน SMC — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง ก่อน vs หลังเรียน SMC เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 265,
+      "category": "Soft Sell",
+      "title": "เรื่องเล่าจากมือใหม่",
+      "hook": "เรื่องเล่าจากมือใหม่ — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง เรื่องเล่าจากมือใหม่ เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 266,
+      "category": "Soft Sell",
+      "title": "จาก Demo ไป Live Trade",
+      "hook": "จาก Demo ไป Live Trade — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง จาก Demo ไป Live Trade เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 267,
+      "category": "Soft Sell",
+      "title": "วิธีเริ่มต้นกับเรา",
+      "hook": "วิธีเริ่มต้นกับเรา — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง วิธีเริ่มต้นกับเรา เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 268,
+      "category": "Soft Sell",
+      "title": "FAQ คำถามที่ถามบ่อย",
+      "hook": "FAQ คำถามที่ถามบ่อย — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง FAQ คำถามที่ถามบ่อย เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 269,
+      "category": "Soft Sell",
+      "title": "ข้อผิดพลาดที่ Community ช่วยได้",
+      "hook": "ข้อผิดพลาดที่ Community ช่วยได้ — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง ข้อผิดพลาดที่ Community ช่วยได้ เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 270,
+      "category": "Soft Sell",
+      "title": "การเรียนแบบ Active vs Passive",
+      "hook": "การเรียนแบบ Active vs Passive — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง การเรียนแบบ Active vs Passive เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 271,
+      "category": "Soft Sell",
+      "title": "เป้าหมายของ Emotion Trades",
+      "hook": "เป้าหมายของ Emotion Trades — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง เป้าหมายของ Emotion Trades เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 272,
+      "category": "Soft Sell",
+      "title": "เราสอนอะไรบ้าง",
+      "hook": "เราสอนอะไรบ้าง — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง เราสอนอะไรบ้าง เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 273,
+      "category": "Soft Sell",
+      "title": "Curriculum ครบ",
+      "hook": "Curriculum ครบ — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Curriculum ครบ เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 274,
+      "category": "Soft Sell",
+      "title": "Module แต่ละอัน",
+      "hook": "Module แต่ละอัน — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Module แต่ละอัน เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 275,
+      "category": "Soft Sell",
+      "title": "Bonus Material",
+      "hook": "Bonus Material — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Bonus Material เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 276,
+      "category": "Soft Sell",
+      "title": "Community Support",
+      "hook": "Community Support — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Community Support เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 277,
+      "category": "Soft Sell",
+      "title": "Weekly Live Session",
+      "hook": "Weekly Live Session — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Weekly Live Session เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 278,
+      "category": "Soft Sell",
+      "title": "Q&A รายสัปดาห์",
+      "hook": "Q&A รายสัปดาห์ — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Q&A รายสัปดาห์ เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 279,
+      "category": "Soft Sell",
+      "title": "Trade Review Session",
+      "hook": "Trade Review Session — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Trade Review Session เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 280,
+      "category": "Soft Sell",
+      "title": "Chart Lab Practice",
+      "hook": "Chart Lab Practice — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Chart Lab Practice เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 281,
+      "category": "Soft Sell",
+      "title": "Accountability Partner",
+      "hook": "Accountability Partner — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Accountability Partner เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 282,
+      "category": "Soft Sell",
+      "title": "Group Trading Challenge",
+      "hook": "Group Trading Challenge — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Group Trading Challenge เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 283,
+      "category": "Soft Sell",
+      "title": "Monthly Performance Review",
+      "hook": "Monthly Performance Review — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Monthly Performance Review เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 284,
+      "category": "Soft Sell",
+      "title": "Leaderboard Community",
+      "hook": "Leaderboard Community — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Leaderboard Community เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 285,
+      "category": "Soft Sell",
+      "title": "Special Event Trading",
+      "hook": "Special Event Trading — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Special Event Trading เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 286,
+      "category": "Soft Sell",
+      "title": "Holiday Schedule",
+      "hook": "Holiday Schedule — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Holiday Schedule เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 287,
+      "category": "Soft Sell",
+      "title": "Black Friday Offer",
+      "hook": "Black Friday Offer — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Black Friday Offer เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 288,
+      "category": "Soft Sell",
+      "title": "New Year Trading Plan",
+      "hook": "New Year Trading Plan — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง New Year Trading Plan เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 289,
+      "category": "Soft Sell",
+      "title": "ต้อนรับสมาชิกใหม่",
+      "hook": "ต้อนรับสมาชิกใหม่ — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง ต้อนรับสมาชิกใหม่ เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 290,
+      "category": "Soft Sell",
+      "title": "Referral Program",
+      "hook": "Referral Program — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Referral Program เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 291,
+      "category": "Soft Sell",
+      "title": "Invite เพื่อนมาเรียน",
+      "hook": "Invite เพื่อนมาเรียน — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Invite เพื่อนมาเรียน เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 292,
+      "category": "Soft Sell",
+      "title": "Family Plan Trading",
+      "hook": "Family Plan Trading — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Family Plan Trading เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 293,
+      "category": "Soft Sell",
+      "title": "Student Success Story 1",
+      "hook": "Student Success Story 1 — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Student Success Story 1 เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 294,
+      "category": "Soft Sell",
+      "title": "Student Success Story 2",
+      "hook": "Student Success Story 2 — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Student Success Story 2 เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 295,
+      "category": "Soft Sell",
+      "title": "Student Story 3",
+      "hook": "Student Story 3 — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Student Story 3 เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 296,
+      "category": "Soft Sell",
+      "title": "Mentor Story",
+      "hook": "Mentor Story — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Mentor Story เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 297,
+      "category": "Soft Sell",
+      "title": "Why SMC over Indicators",
+      "hook": "Why SMC over Indicators — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Why SMC over Indicators เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 298,
+      "category": "Soft Sell",
+      "title": "Why Gold and MNQ",
+      "hook": "Why Gold and MNQ — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Why Gold and MNQ เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 299,
+      "category": "Soft Sell",
+      "title": "Why Discord Community",
+      "hook": "Why Discord Community — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Why Discord Community เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 300,
+      "category": "Soft Sell",
+      "title": "Why Emotion Trades Thailand",
+      "hook": "Why Emotion Trades Thailand — อยากรู้ไหมว่า Emotion Trades ทำได้ยังไง?",
+      "content": "Emotion Trades คือ community เทรดที่เน้นสอน process ที่แท้จริง ไม่ขายฝัน ไม่ flex P&L ปลอม เรื่อง Why Emotion Trades Thailand เป็นส่วนหนึ่งที่ทำให้เรา community ที่ผู้เรียนเติบโตได้จริง",
+      "cta": "เข้า Discord Emotion Trades ฟรีได้เลย — link ใน bio"
+    },
+    {
+      "id": 300,
+      "category": "Soft Sell",
+      "title": "Trade with Edge, Not Emotion — เริ่มวันนี้",
+      "hook": "ถ้าวันนี้คุณยังเทรดด้วย emotion — พรุ่งนี้คุณจะเสียใจ",
+      "content": "Emotion Trades คือ community ที่สร้างมาเพื่อนักเทรดที่จริงจัง เรียนรู้ SMC, ICT, Demand & Supply จากของจริง ไม่ขายฝัน ไม่ flex ปลอม มีแค่ process ที่ใช้ได้จริง Join Discord ฟรีแล้วเริ่มเดินทางนี้วันนี้เลย",
+      "cta": "Link ใน bio — Trade with Edge, Not Emotion 🔥"
+    }
+  ]
+}
