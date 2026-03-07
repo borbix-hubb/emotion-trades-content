@@ -100,7 +100,7 @@ async function initFacebook() {
           <span class="cat-badge ${catClass(p.category)}">${p.category}</span>
         </div>
         <div class="card-title">${p.title}</div>
-        <div class="post-caption" id="cap-${p.id}">${p.caption}</div>
+        <div class="post-caption" id="cap-${p.id}">${p.caption.replace(/\n/g,'<br>')}</div>
         <div class="card-actions">
           <button class="btn-copy" onclick="copyText(\`${p.caption.replace(/`/g,"'")}\`,this)">📋 Copy Caption</button>
           <button class="btn-copy" style="flex:0;background:#2a3150;color:var(--text)" onclick="toggleCaption('cap-${p.id}',this)">▼</button>
